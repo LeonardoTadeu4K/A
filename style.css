@@ -5,7 +5,7 @@
 }
 header{
     background-image:url(carroteste.png);
-    display: flex;
+
     align-items: center;
     justify-content:center;
     padding: 400px 20px;
