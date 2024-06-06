@@ -7,7 +7,7 @@ header{
     background-image:url(carroteste.png);
     display: flex;
     align-items: center;
-    justify-content:end;
+    justify-content:center;
     padding: 400px 20px;
     background-size: 100% 100%;
     font-size: 500%;
