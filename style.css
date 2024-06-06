@@ -4,6 +4,8 @@
     padding: 0%;
 }
 header{
-    background-image:url();
+    background-image:url(carroteste.png);
+    display: flex;
+    align-items: center;
 }
      
