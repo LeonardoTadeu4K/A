@@ -17,6 +17,7 @@ section{
     background-image: url(Sem\ título\ 1.png);
     display: grid;
     grid-template-columns: 50% 50%;
+    text-align: center;
     justify-content: center;
     padding: 400px 100px;
     background-size: 100% 100%;
