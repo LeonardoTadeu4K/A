@@ -15,7 +15,7 @@ header{
      
 section{
     background-image: url(Sem\ título\ 1.png);
-    display: flex;
+    display: flex 32% ;
     justify-content: center;
     padding: 400px 100px;
     background-size: 100% 100%;
