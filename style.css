@@ -5,17 +5,16 @@
 }
 header{
     background-image:url(image\ 1\ \(2\).png);
-    align-items: center;
+    text-align: center;
     justify-content:center;
     padding: 350px 50px;
     background-size: 100% 100%;
     font-size: 450%;
     color: aliceblue;
-    text-align: center;
 }
      
 section{
-    background-image: url(Sem\ título\ 1.png);
+    background-image: url(vgybybybybybybybybybybybybybybybybybybybybybybybybybyb\ 1.png);
     display: grid;
     grid-template-columns: 40% 50%;
     justify-content: center;
