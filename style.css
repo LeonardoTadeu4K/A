@@ -11,23 +11,24 @@ header{
     background-size: 100% 100%;
     font-size: 450%;
     color: aliceblue;
+    text-align: center;
 }
      
 section{
     background-image: url(Sem\ título\ 1.png);
     display: grid;
     grid-template-columns: 40% 50%;
-    text-align: center;
     justify-content: center;
-    padding: 400px 150px;
     background-size: 100% 100%;
     font-size: 250%;
+    height: 50vw;
+    background-color: white;
 }
 
 .porta{
     background-color: blueviolet;
     color: black;
-    
+
 
 
 }
