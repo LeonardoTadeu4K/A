@@ -26,11 +26,11 @@ header {
 }
 
 .porta {
-    background-color: rgb(255, 255, 255);
+    background-color: blueviolet;
     color: black;
     text-align: center;
-    height: 50vw
     font-size: 20%;
+    padding: 50%;
 
 
 
