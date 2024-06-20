@@ -35,6 +35,14 @@ header {
 
 }
 
+.janela {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    text-align: center;
+    font-size: 200%;
+    flex-direction: column;
+    display: flex;
+}
 
 @media screen and (min-width: 1024px) {
     header {
