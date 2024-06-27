@@ -11,6 +11,9 @@ header {
     flex-direction: column;
 }
 
+.sozinho{
+    font-size: 130%;
+}
 .porta {
     background-color: rgb(255, 255, 255);
     color: black;
