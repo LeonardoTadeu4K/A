@@ -4,7 +4,6 @@
 }
 
 header {
-    background-image: url(image\ 1\ \(2\).png);
     text-align: center;
     justify-content: center;
     background-size: 100% 100%;
@@ -14,22 +13,11 @@ header {
     flex-direction: column;
 }
 
-.img-dois {
-    background-image: url(vgybybybybybybybybybybybybybybybybybybybybybybybybybyb\ 1.png);
-    display: grid;
-    grid-template-columns: 40% 50%;
-    justify-content: center;
-    background-size: 100% 100%;
-    font-size: 250%;
-    height: 50vw;
-    background-color: white;
-}
-
 .porta {
     background-color: rgb(255, 255, 255);
     color: black;
-    text-align: center;
-    font-size: 200%;
+    text-align:left;
+    font-size: 150%;
     flex-direction: column;
     display: flex;
     justify-content: center;
@@ -43,7 +31,7 @@ header {
     font-size: 200%;
     flex-direction: column;
     display: flex;
-    padding: 15px;
+
 }
 
 @media screen and (min-width: 1024px) {
