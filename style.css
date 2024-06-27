@@ -16,7 +16,7 @@ header {
     color: black;
     text-align:left;
     left: 0;
-    font-size: 150%;
+    font-size: 200%;
     flex-direction: column;
     display: flex;
     justify-content: center;
@@ -27,7 +27,7 @@ header {
     color: black;
     text-align:right;
     right: 0;
-    font-size: 150%;
+    font-size: 200%;
     flex-direction: column;
     display: flex;
     justify-content: center;
@@ -35,8 +35,8 @@ header {
 .janela {
     background-color: rgb(255, 255, 255);
     color: black;
-    text-align: right;
-    right: 0;
+    text-align: left;
+    left: 0;
     font-size: 200%;
     flex-direction: column;
     display: flex;
@@ -46,8 +46,8 @@ header {
 .janele {
     background-color: rgb(255, 255, 255);
     color: black;
-    text-align: left;
-    left: 0;
+    text-align: right;
+    right: 0;
     font-size: 200%;
     flex-direction: column;
     display: flex;
