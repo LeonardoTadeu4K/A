@@ -4,9 +4,8 @@
 }
 
 .header {
-    text-align: center;
+    text-align: left;
     justify-content: center;
-    color: aliceblue;
     display: flex;
     flex-direction: column;
 }
@@ -60,6 +59,10 @@
 
 }
 
+.colunas{
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
 @media screen and (min-width: 1024px) {
 
 }
