@@ -22,7 +22,7 @@ header {
     justify-content: center;
     
 }
-,porte {
+.porte {
     background-color: rgb(255, 255, 255);
     color: black;
     text-align:right;
@@ -34,7 +34,17 @@ header {
 .janela {
     background-color: rgb(255, 255, 255);
     color: black;
-    text-align: center;
+    text-align: right;
+    font-size: 200%;
+    flex-direction: column;
+    display: flex;
+
+}
+
+.janele {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    text-align: left;
     font-size: 200%;
     flex-direction: column;
     display: flex;
