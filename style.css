@@ -31,6 +31,11 @@
     justify-content: center;
     
 }
+
+.espaco{
+padding:3% 6% ;
+}
+
 .porte {
     background-color: rgb(255, 255, 255);
     color: black;
