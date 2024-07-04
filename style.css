@@ -21,9 +21,6 @@
     text-align: right;
  }
 
-.sozinho{
-    font-size: 170%;
-}
 .porta {
     background-color: rgb(255, 255, 255);
     color: black;
@@ -35,12 +32,9 @@
     
 }
 
-.fotoliru{
-   size: 40%;
-}
 
 .espaco{
-padding:0px 16% ;
+padding:0px 30px ;
 }
 
 .porte {
