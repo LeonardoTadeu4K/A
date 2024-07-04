@@ -82,6 +82,13 @@ padding:40px 0px ;
     padding: 10px 0px;
 }
 
+.semcoluna2{
+    display: grid;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+
 @media screen and (min-width: 1024px) {
 
 
