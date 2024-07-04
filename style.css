@@ -76,7 +76,8 @@ padding:13% 16% ;
 }
 
 .semcoluna{
-    display: flex;
+    display: grid;
+
 }
 
 @media screen and (min-width: 1024px) {
